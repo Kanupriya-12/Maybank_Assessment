@@ -1,2 +1,2 @@
 - Maybank_Assessment_Updated.ipynb - Jupyter Notebook with code output.
-- MaybankAssessment_Presentation.pptx / Maybank Assessment.pdf - Slides to analyse code output. (Click 'view raw' to download the pptx')
+- MaybankAssessment_Presentation.pptx / Maybank Assessment.pdf - Slides to analyse code output. (Click 'view raw' to download the pptx)
